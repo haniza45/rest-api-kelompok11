@@ -7,7 +7,7 @@
 <p>Yohana Monalisa (2205102087)</p>
 <br>
 <ol type = "a">
-  <Li><strong>Source Code</strong></Li>
-  <Li>Penjelasan Source Code</Li>
+  <Strong><Li>Source Code</Li></Strong>
+  <Strong><Li>Penjelasan Source Code</Li></Strong>
 </ol>
 
